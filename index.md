@@ -4,7 +4,7 @@
 
 你可以在下面看到链接
 ### 手机音游:
-[arcaea]([https://dl.arcaea.moe/](https://static-bin.lowiro.com/serve/arcaea_3.12.10c.apk?token=W1RpX9ZpuYrnVFkzNDb1wIb3mL3g1bE7AYxYbK9MU686XntFsvjaEbGvcx3RAGaYf)).
+[arcaea](https://dl.arcaea.moe/](https://static-bin.lowiro.com/serve/arcaea_3.12.10c.apk?token=W1RpX9ZpuYrnVFkzNDb1wIb3mL3g1bE7AYxYbK9MU686XntFsvjaEbGvcx3RAGaYf).
 [osu lazer](https://dl.hiosu.com/mfosu%e6%9c%ac%e5%9c%b0%e4%b8%8b%e8%bd%bd%e7%82%b9/Android%e7%89%88%282022.503.0%29/mfosu.apk).
 [phigros(2021愚人节版)](http://dl.downmg.xyz/phigros/Phigros_2.1.4.apk).
 ### 电脑音游:
